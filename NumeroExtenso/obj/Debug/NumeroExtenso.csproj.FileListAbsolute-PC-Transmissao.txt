@@ -1,5 +1,0 @@
-E:\Lucas\SkyDrive\Work\ContratosNaHora\NumeroExtenso\NumeroExtenso\NumeroExtenso\bin\Debug\NumeroExtenso.dll
-E:\Lucas\SkyDrive\Work\ContratosNaHora\NumeroExtenso\NumeroExtenso\NumeroExtenso\bin\Debug\NumeroExtenso.pdb
-E:\Lucas\SkyDrive\Work\ContratosNaHora\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\NumeroExtenso.csprojResolveAssemblyReference.cache
-E:\Lucas\SkyDrive\Work\ContratosNaHora\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\NumeroExtenso.dll
-E:\Lucas\SkyDrive\Work\ContratosNaHora\NumeroExtenso\NumeroExtenso\NumeroExtenso\obj\Debug\NumeroExtenso.pdb
