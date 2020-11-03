@@ -94,7 +94,19 @@ namespace NumeroExtenso
 
             double logMil = (int)Math.Log(intero, 1000);
             bool incluiDe = (logMil >= 2 && (int)logMil == logMil);
+            decimal n = Convert.ToString(intero).Length;
 
+            if (n >= 6)
+            {
+                string str = Convert.ToString(intero);
+                str = str.Substring((int)(n - 6));
+                n = decimal.Parse(str);
+
+                if (n > 0)
+                {
+                    incluiDe = false;
+                }
+            }
             StringBuilder sb = new StringBuilder();
             sb.Append(intero.ToLongString());
             sb.Append(" ");
